@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculadoraDeGorjeta" parent="Theme.Material3.DayNight">
+<!--    <style name="Base.Theme.CalculadoraDeGorjeta" parent="Theme.Material3.DayNight.NoActionBar">-->
+        <!-- Customize your light theme here. -->
+        <!--        Texto da Caixa de titulo-->
+        <item name="colorOnSurface">@color/white</item>
+        <!--        Cor da TopBar-->
+        <item name="colorSurfaceContainer">@color/colorSurfaceContainer</item>
+        <!--        Cor da barra de notificação-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--        Cor da SeekBar-->
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+
+    <style name="Theme.CalculadoraDeGorjeta" parent="Base.Theme.CalculadoraDeGorjeta" />
+</resources>

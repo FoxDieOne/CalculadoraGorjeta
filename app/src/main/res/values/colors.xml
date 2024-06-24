@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSurfaceContainer">#EF9739</color>
+    <color name="colorPrimary">#FFa742</color>
+    <color name="colorAccent">#FFb452</color>
+    <color name="laraja_claro">#FFD470</color>
+
+</resources>
